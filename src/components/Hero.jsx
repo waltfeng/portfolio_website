@@ -97,7 +97,7 @@ export default function Hero() {
         loop
         playsInline
         preload="auto"
-        src="/assets/AE_FInal.mp4"
+        src="https://pub-0ba8b4163ecf47fca7d629cc97880427.r2.dev/AE_FInal.mp4"
       />
       <div className="hero__scrim" />
       <div className="hero__grain" />
