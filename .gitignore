@@ -11,6 +11,17 @@ dist-ssr/
 # Vite cache
 .vite/
 
+# Large media files (uploaded to CDN instead)
+public/assets/*.mp4
+public/assets/*.mov
+public/assets/*.webm
+*.mp4
+*.mov
+*.webm
+
+# Local assets archive (backup of removed files)
+.assets-archive/
+
 # Logs
 logs
 *.log
